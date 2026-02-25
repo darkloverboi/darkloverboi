@@ -59,6 +59,6 @@ I love building real-world projects and experimenting with system security, pene
 
 ## 🌐 Connect With Me
 
-If you searched for **Dark Lover Boi Developer**, this is my official GitHub.
-
+this is my official GitHub.
+email.kshebin86@gmail.com
 Follow for cybersecurity and AI project updates.

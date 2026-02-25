@@ -2,20 +2,7 @@
 
 🚀 Cybersecurity Enthusiast | Ethical Hacking Learner | AI/ML Developer | Project Builder  
 
-Welcome to the official GitHub profile of **Dark Lover Boi**.
-
-If you searched for:
-- dark lover boy github
-- dark lover boi developer
-- dark lover cybersecurity
-- dark lover ethical hacking
-- dark lover boi github
-- dark lover boi developer
-- dark lover boi cybersecurity
-- dark lover boi ethical hacking
-- dark lover boy cybersecurity
-- dark lover boy ethical hacking
-
+Welcome to the official GitHub profile of **DarkLoverBoi**.
 
 You are in the right place.
 
@@ -56,6 +43,9 @@ I love building real-world projects and experimenting with system security, pene
 - Experimental security tools  
 
 ---
+
+Developer by DarkLoverBoi
+name :shebin k babu
 
 ## 🌐 Connect With Me
 
